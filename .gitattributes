@@ -1,0 +1,3 @@
+*.kt linguist-detectable=true
+*.xml linguist-documentation=true
+app/* linguist-vendored=false
